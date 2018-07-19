@@ -1,0 +1,33 @@
+/* reset */
+$min-width: 320px; 
+$max-width: 1200px; 
+$base-bg: #FFF; 
+$base-font-size: 13px;
+$base-line-height: 18px;
+$base-font-family: Arial, sans-serif; 
+$custom-font-family: 'OpenSans-Regular', sans-serif; 
+$link-color: #100da9;
+$default-transition:all 0.2s linear;
+
+/* main variables */
+
+//text, titles
+$text-color: #282828;
+$title-color: #000;
+$main-color: #48b3cb;
+$second-color: #ffae2e;
+
+$title-font-family: $custom-font-family;
+
+
+$font-size-h1: 36px;
+$line-height-h1: 42px;
+$font-size-h2: 32px;
+$line-height-h2: 37px;
+$font-size-h3: 28px;
+$line-height-h3: 32px;
+
+$ff-reg: 'OpenSans-Regular', sans-serif;
+$ff-sb: 'OpenSans-SemiBold', sans-serif;
+$ff-b: 'OpenSans-Bold', sans-serif;
+$ff-title: 'Comfortaa-Bold', sans-serif;
